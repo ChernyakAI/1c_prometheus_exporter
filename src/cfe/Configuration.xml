@@ -66,6 +66,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Role>пэ_ОсновнаяРоль</Role>
+			<CommonModule>пэ_Коннектор</CommonModule>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
