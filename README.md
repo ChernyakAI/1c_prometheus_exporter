@@ -28,6 +28,7 @@
 ## Визуализация
 Создайте новый дашборд в графане, можно воспользоваться следующими метриками с типом counter:
 ```
+onec_apdex_total_value
 onec_apdex_value
 onec_apdex_number_of_measurements
 onec_apdex_average_duration_of_the_operation
