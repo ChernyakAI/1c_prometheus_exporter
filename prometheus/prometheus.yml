@@ -1,0 +1,24 @@
+# A scrape configuration containing exactly one endpoint to scrape:
+# Here it's Prometheus itself.
+scrape_configs:
+  # The job name is added as a label `job=<job_name>` to any timeseries scraped from this config.
+  - job_name: "prometheus"
+    # metrics_path defaults to '/metrics'
+    # scheme defaults to 'http'.
+    static_configs:
+      - targets: ["localhost:9090"]
+
+  - job_name: "pushgateway"
+    scrape_interval: 1s
+    static_configs:
+      - targets: ['<server:port>']
+
+  - job_name: 'Onec_Prometheus_Exporter'
+    scrape_interval: 1m
+    metrics_path: /<IBName>/hs/metrics
+    basic_auth:
+      username: <user>
+      password: <password>
+    static_configs:
+      - targets:
+        - <server>
