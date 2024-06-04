@@ -3,7 +3,7 @@
 	<CommandsVisibility>
 		<Command name="CommonCommand.пэ_Настройки">
 			<Visibility>
-				<xr:Common>true</xr:Common>
+				<xr:Common>false</xr:Common>
 			</Visibility>
 		</Command>
 	</CommandsVisibility>
