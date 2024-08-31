@@ -6,6 +6,11 @@
 				<xr:Common>true</xr:Common>
 			</Visibility>
 		</Command>
+		<Command name="InformationRegister.пэ_ИнтервалыСбораПоказателей.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
 		<Command name="InformationRegister.пэ_ПрофилиКлючевыхОпераций.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
@@ -15,6 +20,10 @@
 	<CommandsPlacement>
 		<Command name="CommonCommand.пэ_Настройки">
 			<CommandGroup>NavigationPanelImportant</CommandGroup>
+			<Placement>Manual</Placement>
+		</Command>
+		<Command name="InformationRegister.пэ_ИнтервалыСбораПоказателей.StandardCommand.OpenList">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
 			<Placement>Manual</Placement>
 		</Command>
 		<Command name="InformationRegister.пэ_ПрофилиКлючевыхОпераций.StandardCommand.OpenList">

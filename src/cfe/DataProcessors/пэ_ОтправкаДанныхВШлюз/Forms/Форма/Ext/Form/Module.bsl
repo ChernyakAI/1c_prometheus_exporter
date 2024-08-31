@@ -1,4 +1,4 @@
-﻿// Copyright Copyright 2023 Andrei Chernyak
+﻿// Copyright Copyright 2023-2024 Andrei Chernyak
 // Licensed under the Apache License, Version 2.0
 
 #Область ОбработчикиКомандФормы

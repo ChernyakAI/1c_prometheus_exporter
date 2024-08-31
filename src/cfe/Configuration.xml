@@ -54,7 +54,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.пэ_ОсновнаяРоль</xr:Item>
 			</DefaultRoles>
 			<Vendor>chernyakai</Vendor>
-			<Version>1.2.1.1</Version>
+			<Version>1.2.2.1</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
@@ -79,12 +79,11 @@
 			<Constant>пэ_АдресШлюза</Constant>
 			<Constant>пэ_ИмяЗадачи</Constant>
 			<Constant>пэ_ИмяИнстанса</Constant>
-			<Constant>пэ_ИнтервалСбораПоказателей</Constant>
 			<Constant>пэ_ОтправлятьДанныеПоРасписанию</Constant>
 			<CommonForm>пэ_ФормаКонстант</CommonForm>
 			<Catalog>ПрофилиКлючевыхОпераций</Catalog>
-			<Enum>пэ_ИнтервалыСбораПоказателей</Enum>
 			<DataProcessor>пэ_ОтправкаДанныхВШлюз</DataProcessor>
+			<InformationRegister>пэ_ИнтервалыСбораПоказателей</InformationRegister>
 			<InformationRegister>пэ_ПрофилиКлючевыхОпераций</InformationRegister>
 		</ChildObjects>
 	</Configuration>

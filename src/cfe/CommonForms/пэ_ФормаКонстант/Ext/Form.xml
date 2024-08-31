@@ -138,12 +138,12 @@ https://github.com/prometheus/pushgateway/</v8:content>
 					<Representation>None</Representation>
 					<ExtendedTooltip name="ГруппаИнтервалСбораПоказателейРасширеннаяПодсказка" id="54"/>
 					<ChildItems>
-						<InputField name="пэ_ИнтервалСбораПоказателей" id="10">
-							<DataPath>НаборКонстант.пэ_ИнтервалСбораПоказателей</DataPath>
-							<EditMode>EnterOnInput</EditMode>
+						<InputField name="ИнтервалСбораПоказателей" id="61">
+							<DataPath>ИнтервалСбораПоказателей</DataPath>
+							<ListChoiceMode>true</ListChoiceMode>
 							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-							<ContextMenu name="пэ_ИнтервалСбораПоказателейКонтекстноеМеню" id="11"/>
-							<ExtendedTooltip name="пэ_ИнтервалСбораПоказателейРасширеннаяПодсказка" id="12"/>
+							<ContextMenu name="ИнтервалСбораПоказателейКонтекстноеМеню" id="62"/>
+							<ExtendedTooltip name="ИнтервалСбораПоказателейРасширеннаяПодсказка" id="63"/>
 						</InputField>
 						<LabelDecoration name="ДекорацияИнтервалСбораПоказателей" id="55">
 							<TextColor>style:FieldSelectionBackColor</TextColor>
@@ -223,6 +223,21 @@ https://github.com/prometheus/pushgateway/</v8:content>
 				</v8:item>
 			</Title>
 			<Type/>
+		</Attribute>
+		<Attribute name="ИнтервалСбораПоказателей" id="3">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Интервал сбора показателей</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>50</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
 		</Attribute>
 	</Attributes>
 </Form>

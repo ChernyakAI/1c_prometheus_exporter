@@ -26,8 +26,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.пэ_АдресШлюза</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.пэ_ИмяЗадачи</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.пэ_ИмяИнстанса</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">519694d0-b40a-4494-827e-2952339c78d8</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">Constant.пэ_ИнтервалСбораПоказателей</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">00090644-4e54-4f3d-b810-9dbcdda24dec</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.пэ_ФормаКонстант</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.пэ_ОтправлятьДанныеПоРасписанию</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">HTTPService.пэ_Метрики</xr:Item>
@@ -35,9 +34,10 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.пэ_Служебный</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">ScheduledJob.пэ_ОтправкаДанныхВШлюзPrometheus</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommandGroup.пэ_Справочники</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">Enum.пэ_ИнтервалыСбораПоказателей</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">6f922ed3-5815-40b1-a2f8-fddd95430146</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.пэ_ПодсистемаPrometheusExporter</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.пэ_ПрофилиКлючевыхОпераций</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.пэ_ИнтервалыСбораПоказателей</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
