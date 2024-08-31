@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
 	<Subsystem uuid="4c6186fe-de8d-44b2-b85a-040beb03de37">
 		<Properties>
 			<Name>пэ_PrometheusExporter</Name>
@@ -26,7 +26,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.пэ_АдресШлюза</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.пэ_ИмяЗадачи</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.пэ_ИмяИнстанса</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">Catalog.пэ_ПрофилиКлючевыхОпераций</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">519694d0-b40a-4494-827e-2952339c78d8</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.пэ_ИнтервалСбораПоказателей</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.пэ_ФормаКонстант</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.пэ_ОтправлятьДанныеПоРасписанию</xr:Item>
@@ -37,6 +37,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommandGroup.пэ_Справочники</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Enum.пэ_ИнтервалыСбораПоказателей</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.пэ_ПодсистемаPrometheusExporter</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.пэ_ПрофилиКлючевыхОпераций</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

@@ -1,28 +1,24 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
 	<ConfigVersions>
 		<Metadata name="Catalog.ПрофилиКлючевыхОпераций" id="ff2be8e4-27b6-4146-b79e-bad66086d860" configVersion="b76a36a1fd96f62ef66fc359eb1e2d0ff99d01cf"/>
-		<Metadata name="Catalog.пэ_ПрофилиКлючевыхОпераций" id="519694d0-b40a-4494-827e-2952339c78d8" configVersion="03182bf23965fecddd8c25cce7199a50638d2caf">
-			<Metadata name="Catalog.пэ_ПрофилиКлючевыхОпераций.Attribute.ЭкспортРазрешен" id="40c63070-eab9-4be9-90cb-105634e876b6"/>
-			<Metadata name="Catalog.пэ_ПрофилиКлючевыхОпераций.Attribute.Профиль" id="c82102a0-2702-44aa-9e2c-8e6c34c0354a"/>
-		</Metadata>
 		<Metadata name="CommandGroup.пэ_Справочники" id="3f971e34-7aa0-4d06-8ec8-4799d5ee0bce" configVersion="df5e12e4ed41f0e7ed189d2d563343052de13e44"/>
 		<Metadata name="CommonCommand.пэ_Настройки" id="78aac2c3-03c1-444f-b5d8-7f99af4bd04e" configVersion="ccf0884001036358b8fdf43e2b9f50358fe013ff"/>
-		<Metadata name="CommonCommand.пэ_Настройки.CommandModule" id="78aac2c3-03c1-444f-b5d8-7f99af4bd04e.2" configVersion="9116d45deeac491e2886895452eb90c9f31ed949"/>
+		<Metadata name="CommonCommand.пэ_Настройки.CommandModule" id="78aac2c3-03c1-444f-b5d8-7f99af4bd04e.2" configVersion="27e236534a905adf5d4ad95539ce8f754db5ec62"/>
 		<Metadata name="CommonForm.пэ_ФормаКонстант" id="56b1ce97-b260-41cb-83a7-be61e7f88ab8" configVersion="3cbc5c1c9aff4e9dcc5f403a79b9b65bc2d92405"/>
-		<Metadata name="CommonForm.пэ_ФормаКонстант.Form" id="56b1ce97-b260-41cb-83a7-be61e7f88ab8.0" configVersion="34e9f02bf60fce81489b86b98394d916c9b29afd"/>
+		<Metadata name="CommonForm.пэ_ФормаКонстант.Form" id="56b1ce97-b260-41cb-83a7-be61e7f88ab8.0" configVersion="304fc612971c939345f2864fedaf09855de4b565"/>
 		<Metadata name="CommonModule.РегламентныеЗаданияПереопределяемый" id="95daa9b3-3c05-49fc-a02a-26dce86c4f9b" configVersion="1168e82baf94ea06c8137d2564c039c93cccf01b"/>
-		<Metadata name="CommonModule.РегламентныеЗаданияПереопределяемый.Module" id="95daa9b3-3c05-49fc-a02a-26dce86c4f9b.0" configVersion="c3a54884e38d5d256bc764f71553addde0e0297a"/>
+		<Metadata name="CommonModule.РегламентныеЗаданияПереопределяемый.Module" id="95daa9b3-3c05-49fc-a02a-26dce86c4f9b.0" configVersion="9f502a194d2930f26364b6018f3d825936b282f1"/>
 		<Metadata name="CommonModule.пэ_Коннектор" id="f764419b-d2c5-4083-80da-67ff939b6da2" configVersion="1cac014ec2ee8780fecb5648bf358066cd42b763"/>
-		<Metadata name="CommonModule.пэ_Коннектор.Module" id="f764419b-d2c5-4083-80da-67ff939b6da2.0" configVersion="21de4beefffae39864cc297993c2287d826f92a3"/>
+		<Metadata name="CommonModule.пэ_Коннектор.Module" id="f764419b-d2c5-4083-80da-67ff939b6da2.0" configVersion="d54bbd3922f06ef4e98553bdb50bbcd4b753927a"/>
 		<Metadata name="CommonModule.пэ_Метрики" id="bba2d0af-dfde-4891-92f2-09f31188db2a" configVersion="ce79beb24f26e54af10d15cd0529f96cbd1a2f5b"/>
-		<Metadata name="CommonModule.пэ_Метрики.Module" id="bba2d0af-dfde-4891-92f2-09f31188db2a.0" configVersion="dc6befe5895b20393214dab23261162bfe2cdb43"/>
+		<Metadata name="CommonModule.пэ_Метрики.Module" id="bba2d0af-dfde-4891-92f2-09f31188db2a.0" configVersion="c1c3c1257259a50b023dbf1512056705dccd40c5"/>
 		<Metadata name="CommonModule.пэ_Служебный" id="13fea56e-004f-431a-9cae-ace9dc56cfbd" configVersion="1e55d6cce8aed4e961c36bf8cc461729b2ed5483"/>
-		<Metadata name="CommonModule.пэ_Служебный.Module" id="13fea56e-004f-431a-9cae-ace9dc56cfbd.0" configVersion="c42d79a45497f0dac60f2494b28ab521549d7e5a"/>
+		<Metadata name="CommonModule.пэ_Служебный.Module" id="13fea56e-004f-431a-9cae-ace9dc56cfbd.0" configVersion="3b985de0a98c4d5aa0a7179dd1004ede54124b1e"/>
 		<Metadata name="CommonPicture.пэ_ПодсистемаPrometheusExporter" id="09077f3c-85ce-484a-8901-558c53beb0fd" configVersion="1d4f2a37c76f6061a5b1ad89aae88147c4d7d3ac"/>
 		<Metadata name="CommonPicture.пэ_ПодсистемаPrometheusExporter.Picture" id="09077f3c-85ce-484a-8901-558c53beb0fd.0" configVersion="353e15570b33adf526acc664c0d3135e9bfcda59"/>
-		<Metadata name="Configuration.PrometheusExporter" id="55225e91-d9fe-4d8d-8e92-06dc554968c5" configVersion="53e34aef3ae4bb98c35ec3ce6be7181f13095d9d"/>
-		<Metadata name="Configuration.PrometheusExporter.MainSectionCommandInterface" id="307d9b1e-3d3c-4a39-bfa3-e0e4299284a0.9" configVersion="7f5aef36664a524ee1fa793700c0f00fcf332ac8"/>
+		<Metadata name="Configuration.PrometheusExporter" id="55225e91-d9fe-4d8d-8e92-06dc554968c5" configVersion="ce868ba2e67f227696b9ebf65177748a17e2f4f4"/>
+		<Metadata name="Configuration.PrometheusExporter.MainSectionCommandInterface" id="307d9b1e-3d3c-4a39-bfa3-e0e4299284a0.9" configVersion="e389eee107cbb6ce8d553108399e0dfb7a2f6df5"/>
 		<Metadata name="Constant.пэ_АдресШлюза" id="2d3d8ec2-0b2e-4ac6-ab49-ed4504a28c0b" configVersion="b9ef5cf3e5c7e60be26d5e09ba25d2497122c0ed"/>
 		<Metadata name="Constant.пэ_ИмяЗадачи" id="d2e9f501-ab32-4860-9f86-c67582e4e4e3" configVersion="f2e77f968aba0c9e256a858e9b1e2f463c5125b4"/>
 		<Metadata name="Constant.пэ_ИмяИнстанса" id="f5ecd1b4-9c88-4b8b-bcec-82ae06ac9a2b" configVersion="d8eeb9e7aa783239263a56a89304812eb095b2e5"/>
@@ -45,11 +41,16 @@
 			<Metadata name="HTTPService.пэ_Метрики.URLTemplate.ШаблонURL.Method.Get" id="01cb87be-f6ac-4c04-bbf3-cb6df72959c7"/>
 			<Metadata name="HTTPService.пэ_Метрики.URLTemplate.ШаблонURL" id="4bda907b-df2d-4d16-a32e-b8e1d43e218e"/>
 		</Metadata>
-		<Metadata name="HTTPService.пэ_Метрики.Module" id="2ade54b4-e109-4242-a380-e22fe4f08123.0" configVersion="dd9bb762ee38d74e095615aa3dff2cef942a2cea"/>
-		<Metadata name="Language.Русский" id="6dc63f24-f709-435b-a891-4ba84662bc1d" configVersion="ac225f1d2a7480669034211c841059a36de44d7d"/>
+		<Metadata name="HTTPService.пэ_Метрики.Module" id="2ade54b4-e109-4242-a380-e22fe4f08123.0" configVersion="3c61da257dea0b9c3ac09d69eca7b525515e69e2"/>
+		<Metadata name="InformationRegister.пэ_ПрофилиКлючевыхОпераций" id="663197a7-d6e4-474d-bf7f-0f670146d05c" configVersion="28c4bd763eb5114484c614539a3afb4d43007b28">
+			<Metadata name="InformationRegister.пэ_ПрофилиКлючевыхОпераций.Resource.ЭкспортРазрешен" id="058b365d-4289-4947-9483-caf7ede36920"/>
+			<Metadata name="InformationRegister.пэ_ПрофилиКлючевыхОпераций.Dimension.Профиль" id="c5c76c34-572d-48e0-aada-4ceaca8fc560"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="6dc63f24-f709-435b-a891-4ba84662bc1d" configVersion="476c8f4b694676a6ca52cec7de9fa8726bbead65"/>
 		<Metadata name="Role.пэ_ОсновнаяРоль" id="84bc5a2c-230d-4734-a3d0-eabfcc0e2981" configVersion="4ee6e3d3a168a909f3c0fe5cdf8a6cf29c573844"/>
+		<Metadata name="Role.пэ_ОсновнаяРоль.Rights" id="84bc5a2c-230d-4734-a3d0-eabfcc0e2981.0" configVersion="b033dfb41db8c3df3870ae811153c81988469d08"/>
 		<Metadata name="ScheduledJob.пэ_ОтправкаДанныхВШлюзPrometheus" id="49cec551-6bae-4cc9-b626-c3a0ba215192" configVersion="7cfaacc2aa0c2848964e61d9e2e9b77534e7465a"/>
-		<Metadata name="Subsystem.пэ_PrometheusExporter" id="4c6186fe-de8d-44b2-b85a-040beb03de37" configVersion="6add1c5cbccb9a01b6b82c2592a168cbaaa91b4b"/>
+		<Metadata name="Subsystem.пэ_PrometheusExporter" id="4c6186fe-de8d-44b2-b85a-040beb03de37" configVersion="1480cdc1a4e1ae69ceb849c9ca1719854438fe24"/>
 		<Metadata name="Subsystem.пэ_PrometheusExporter.CommandInterface" id="4c6186fe-de8d-44b2-b85a-040beb03de37.1" configVersion="795a12803313b65afb8370b52695306e40fc7452"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

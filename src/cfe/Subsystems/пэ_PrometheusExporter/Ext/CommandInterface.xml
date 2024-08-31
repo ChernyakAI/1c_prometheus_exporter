@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+<CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
 	<CommandsVisibility>
-		<Command name="Catalog.пэ_ПрофилиКлючевыхОпераций.StandardCommand.OpenList">
+		<Command name="0:519694d0-b40a-4494-827e-2952339c78d8">
 			<Visibility>
 				<xr:Common>true</xr:Common>
 			</Visibility>
@@ -43,7 +43,7 @@
 		</Command>
 	</CommandsVisibility>
 	<CommandsPlacement>
-		<Command name="Catalog.пэ_ПрофилиКлючевыхОпераций.StandardCommand.OpenList">
+		<Command name="0:519694d0-b40a-4494-827e-2952339c78d8">
 			<CommandGroup>CommandGroup.пэ_Справочники</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
@@ -53,7 +53,7 @@
 		</Command>
 	</CommandsPlacement>
 	<CommandsOrder>
-		<Command name="Catalog.пэ_ПрофилиКлючевыхОпераций.StandardCommand.OpenList">
+		<Command name="0:519694d0-b40a-4494-827e-2952339c78d8">
 			<CommandGroup>CommandGroup.пэ_Справочники</CommandGroup>
 		</Command>
 		<Command name="0:4c2de6ba-7a37-4de0-8778-6a3fca01cec6">
